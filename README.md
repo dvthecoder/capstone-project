@@ -21,5 +21,5 @@ This repository contains the code and documentation for my capstone project on T
 
 ## Usage
    ```bash
-   git clone https://github.com/dvthecoder/capstone-project.git
+  https://github.com/dvthecoder/capstone-project.git
 
